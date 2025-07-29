@@ -1,2 +1,8 @@
 cpp_pivot_tables_old_1.cpp
 build/
+cpp_pivot_tables_old_2.cpp
+cpp_pivot_tables_old_3.cpp
+*_old*
+struct_to_string_test
+struct_to_string_test.cpp
+.vscode/tasks.json
